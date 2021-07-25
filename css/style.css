@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+
+}
+form i.fas.fa-search{
+margin-right: 35px;
+}
+
+/* slider style  */
+.pink-color{
+    color: #FF1E76;
+}
+.bg-pink{
+    background-color: #FF1E76;
+}
+.bg-slider{
+    background-color: #FEEAE9;
+}
+.bg-main{
+    background-color: #F4F4F4;
+}
